@@ -1,0 +1,19 @@
+
+five-second-setting-layer-ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+slider-back-ground
+  rotate: false
+  xy: 1, 43
+  size: 240, 17
+  orig: 240, 17
+  offset: 0, 0
+  index: -1
+knob
+  rotate: false
+  xy: 1, 1
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,75 @@
+
+five-second-button-ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exit-down
+  rotate: false
+  xy: 0, 50
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 0, 0
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+menu-down
+  rotate: false
+  xy: 172, 50
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 172, 0
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+replay-down
+  rotate: false
+  xy: 344, 50
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+replay
+  rotate: false
+  xy: 344, 0
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+setting-down
+  rotate: false
+  xy: 516, 50
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+setting
+  rotate: false
+  xy: 516, 0
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+start-down
+  rotate: false
+  xy: 688, 50
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 688, 0
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+five-second-ui-button.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+setting-down
+  rotate: false
+  xy: 516, 50
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+setting
+  rotate: false
+  xy: 516, 0
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
